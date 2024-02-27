@@ -1032,18 +1032,17 @@ section {
     transform: rotate(360deg);
   }
 }
-p a {
-  text-align: justify !important;
+.contact p a {
   color: #000000;
 
 }
 
-p   a{
+.contact p   a{
   color: #0e2442 !important; 
 
 }
 
-p  a:hover{
+.contact p  a:hover{
   color: #3498DB !important;
   text-decoration: underline;
 }
